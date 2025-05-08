@@ -1,1 +1,6 @@
--r alz/requirements.txt
+streamlit
+pandas
+numpy
+matplotlib
+scipy
+scipy-stats
